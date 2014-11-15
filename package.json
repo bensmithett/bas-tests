@@ -1,0 +1,14 @@
+{
+  "name": "bas-tests",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Smithett",
+  "license": "MIT",
+  "devDependencies": {
+    "bas": "0.0.30"
+  }
+}
